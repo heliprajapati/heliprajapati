@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heli Prajapati</h1>
 <h3 align="center">A passionate Software engineer</h3>
 
-- 🔭 I’m currently working on **Face Recognition System**
+- 🔭 I’m currently working on **Lunar Lander Model**
 
 - 🌱 I’m currently learning **Deep leaning models and Convolutions (CNNs)**
 
